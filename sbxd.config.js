@@ -1,15 +1,11 @@
 const sbxdConfig = {
-  userId: 'shoya140',
+  userId: 'ハルヒ',
   title: '井戸端日記帳',
   projects: [
     {
-      projectId: 'shoya140',
-      startDate: '2022-11-21',
-    },
-    {
       projectId: 'villagepump',
-      startDate: '2022-08-01',
-      endDate: '2022-11-22',
+      startDate: '2022-04-01',
+      endDate: '2023-04-20',
     },
   ],
 }
