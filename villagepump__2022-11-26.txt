@@ -1,0 +1,69 @@
+	年末近づいてきた～
+		ね〜[kentnkmr.icon]
+	むっちゃねた
+	>[https://twitter.com/R_Nikaido/status/1596143462298324993?s=20&t=L5yTg6D60WQoLsCZeKWnHg @R_Nikaido]: あ、凄くわかりやすい例思いついた。[セーラームーン]と[プリキュア]の差だ。
+ >セーラームーンは明確な設定を持った一人のヒロインだけど、プリキュアは個人を指すものではなく概念であり、その定義も明確に決まっていない。なのでいくらでもシリーズを続けられうる。セーラームーンには、限界がある。
+ 	[マーベル]のキャラも個人に紐ついている1人のヒーローではあるが、個人が変わってヒーローの名前を継承するというくだりがしばしばある
+ 		[ブラックパンサー ワカンダ・フォーエバー]もティ・チャラの死を乗り越えてシュリがブラックパンサーの能力を受け継ぐ物語
+ 		他[ファルコン&ウィンターソルジャー]、[シーハルク]、[ソー:ラブ&サンダー]もありフェーズ4前後ではそういう感じの話が目立つ
+ 		[セーラームーン]との表面的な違いとして
+ 			[スパイダーマン]や[キャプテン・アメリカ]の歴史はかなり長く、概念化には十分か
+ 				日本で言う[戦前]からいるキャラも
+ 			アメコミには[マルチバース]的な世界観がある
+ 				同じヒーローの漫画を多くの作者が自由に描く
+ 				マーベルではそうしてできたさまざまな物語をそれぞれ別の宇宙の話とする設定
+  	また、概念の継承が難しいということが物語のテーマになることも
+  		ある意味で逆手にとっているというか
+  		[ファルコン&ウィンターソルジャー]で、サムは黒人ながらキャプテン・アメリカの2代目となった
+  			政治的描写の激しいドラマだったし、サム自身も内面で葛藤があった
+	ポケモンのグラフィックがしょぼすぎる問題がバズってる
+		[https://www.forbes.com/sites/paultassi/2022/11/19/pokemon-scarlet-and-violets-tech-problems-are-on-game-freak-not-the-switch/?sh=7964699754dc Pokemon Scarlet And Violet’s Tech Problems Are On Game Freak, Not The Switch]
+		他のSwitchソフトと比較すると
+		>[https://twitter.com/MrSinnoh/status/1593619569733644288?s=20&t=CUF0DeNT2Wc4EBpjaZA1Gg @MrSinnoh]: The problem is not Nintendo Switch, the problem is GameFreak.
+  >This is indefensible.
+  >[https://pbs.twimg.com/media/Fh2sifEXgAMw1D0.jpg][https://pbs.twimg.com/media/Fh2siuCWYAQp4G-.jpg][https://pbs.twimg.com/media/Fh2si_fXgAA21rQ.jpg][https://pbs.twimg.com/media/Fh2sjREXgAAwAfa.jpg]
+  	ポケモン、ポケモン、ゼルダ、ゼノブレイド
+  >[https://twitter.com/AbramBuehner/status/1593252925890969600?s=20&t=CUF0DeNT2Wc4EBpjaZA1Gg @AbramBuehner]: I do not want to hear the "Switch isn't powerful enough" line today as the root cause of Scarlet/Violet's issues when the true problem is a lack of development time and optimization. TPCi is NOT giving Game Freak the necessary support to extract the open-world power Switch has
+  >[https://pbs.twimg.com/media/FhxfE8CaUAALaqz.jpg][https://pbs.twimg.com/media/FhxfFTOaYAAKwV7.jpg][https://pbs.twimg.com/media/FhxfFk5VsAAPnZA.jpg][https://pbs.twimg.com/media/FhxfF3HVUAAq_RV.jpg]
+  	ゼノブレイド、ゼルダ、ウィッチャー、ドラクエ
+  Switchのマシンパワーではなくポケモンの開発に問題があるのだとする言説が流布している
+  こんな違うくなることあるか？
+  	写す場面に恣意性はないか
+  Switchのマシンパワーの低さゆえの開発のしづらさというのはあるらしい
+  	あまり深入りした話は遊ぶ方の知ったことではなくなってくるが
+ そこまで親しくない人と会話すると、そののち反省会を行う
+ 	よく振り返ってみると、人に好かれたいとかじゃなくて面白いことを言いたいという欲求が手前にある
+ 表情の絵文字+アイコン(例🙄[はるひ.icon])すると顔が2つになる問題
+ 	てえへんだ
+ 	アイコンを体にすればいいのか？
+ 	アイコンは顔じゃなくてもいい？
+ 	アイコンの原義は顔面だったりする？
+ 	[ルビ記法]を使ってみる[< 🤔][Mijinko_SD.icon]
+ 		天才[はるひ.icon][nishio.icon]
+		[< 🙄][はるひ.icon]
+			[お面]？
+ 			それ思った[Mijinko_SD.icon]
+ 	[吹き出し記法]を混ぜてみる[<} 🤔]　   [Mijinko_SD.icon]
+ 		見づらいのでちょっと濃くしてみた
+ 		[https://gyazo.com/9bfb96bc0a64b4028e8cc48bcd6e7123]
+ [Notion AI]
+ 	PCの比較
+ 	構成を書き並べてスペックで並び替えしたい
+ 	ベンチマークスコア書けばいいんだけど
+ 	商品名やURL書いたら自動で取得して、使用状況を入力する(≒ビュー切り替え)と画質とかFPSまで割り出してくれる、とかやりたい
+ 	NotionでAIの本領発揮させるといったらこういうところだと思うのだよね
+ [ブラックフライデー]
+ 	黒金セールで何か買おうと服探してたが、結局その予算でRTX3070買った
+ 	季節的にコートほしいけどコート買えるほどお金なかった
+ 	ﾁｮｯﾄよくなった
+ 	70Tiもセール価格だと数千円しか変わらないのだけど、性能のちょろーっとした伸びに大して電力消費ばっかり増えてるってんでやめといた(エコ)
+		でも使ってるモニターがフルHDより大きいのでちょっとでも上げたほうが良かったかなあ
+			まあゲーム性能はゲーム機に担わせるということで・・・
+ 		1080かけ2560でフルHDを横に引き伸ばしただけのモニターってなんて呼称するの？
+ 			[横長フルHD]
+ 			[WQHD未満]
+	Gyazoの読み込みが遅い
+	[土日でもゆうちょ銀行のATM使える？]
+	[ニューラルクラウド]始めた
+		[TFT]みたいな感じかな
+ [Scrapbox外でも関連ページ欄]

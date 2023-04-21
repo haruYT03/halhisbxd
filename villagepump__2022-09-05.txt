@@ -1,0 +1,16 @@
+	天気わる
+	UserScriptもう一つ増やしてみようとしたらやり方を忘れてることに気がついた
+		完全にマスターした気でいた
+	[Logseq]はもう手放せないが、[Obsidian]のサクサク感は今日も異常
+		Logseqはなんだか数フレームのラグを感じる
+	Logseqアプデ後、[Gyazo]のURLが勝手に展開されるようになってた
+		ていうか貼り付けるだけで大変なことになって心配になる
+		[https://gyazo.com/44f3c7bec6c92a9a0be08b98853ecbf1]
+		この現象は、gyazoのソフトでキャプチャした時に自動でコピーされたURLに限る
+	>[https://twitter.com/craftdocsapp/status/1566825989027536896?s=20&t=aRAtImSAX_-XlX7ksc8p0w @craftdocsapp]: Excited to share some big news this week
+ >💻 We've just released our Windows app
+ >🌐 Web App is officially stepped into v1.0
+ >🚀We've raised $12.2 million in Series B round.
+ >📚 Don't forget about our Back to School Promo!
+ >https://t.co/vJFnLQ1CjS
+ >[https://pbs.twimg.com/media/Fb5L5KzWIAEtiiL.png]

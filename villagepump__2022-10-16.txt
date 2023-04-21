@@ -1,0 +1,14 @@
+　WindowsとiPadの併用
+　　色々やってみたけど、結局iPadで手書きをしたいだけなので、iPadの画面をつねにPCに配信してそれをPC側でスクショするというのが一番手軽に自分の抱える問題を解決できた
+　　ミラーリングのアプリはどれもあまりうまく動作しない
+　　今はLINEで別垢でログインして画面共有の通話にしている
+　　Discordのほうがログインは簡単か
+　　[rmaruon.icon]の場合、手書きメモをある任意のタイミングでスクショするだけでよいので、以下のいずれかに落ち着きました
+   純正メモアプリ (iPad) で書いて、任意のブラウザ (Windows)で [https://www.icloud.com/notes/] を開いてスクショ
+   OneNoteアプリ (iPad) に書いて、OneNoteアプリ (Windows) を開いてスクショ
+   [Kakeru]を任意のブラウザ (iPad) で書いて、任意のブラウザ (Windows) を開いてスクショ
+  ふだんは画像を[Telegram]のひとりグループに送るということをしている(何故Telegram？)[はるひ.icon]
+　[ロックとメタルの違い]いまいちわからず
+　Switch版[Dicey Dungeons]大幅値引きで150円セール おすすめです
+　	[https://store-jp.nintendo.com/list/software/70010000036715.html Dicey Dungeons ダウンロード版 | My Nintendo Store（マイニンテンドーストア）]
+　	MODも色々あるけどまあ
