@@ -7,6 +7,11 @@
 			[https://store.steampowered.com/app/1785150/Friends_vs_Friends/ Save 40% on Friends vs Friends on Steam]
 			デッキ構築+対戦FPS
  			というと[Phantom Dust]を思い出したり思い出さなかったり
+ 		めちゃくちゃ面白いが、難しい。。。
+ 		PCFPS猛者の巣窟みたいなとこでタイマン部屋ぶちこまれて勝てるわけねーじゃん
+ 		2対2もあるのでそっちをやる
+ 		しっかり勝っていかないとパックが剥けないのでより勝てないという
+ 		アートやBGMがかわいらしくてすごく良い
 		日本語化: [Pentiment]
 			[https://store.steampowered.com/app/1205520/Pentiment/ Pentiment on Steam]
 			英語が難しくて全然遊べてなかったが、発売から1年立たずに公式日本語訳追加というちょっとびっくりの早さ
@@ -32,4 +37,3 @@
   	アプデ待ち案件か
  ふー、満足(？？)
  ChatGPTへの質問を推敲するプロセスで理解にたどりついてしまうことがしばしば
- 	勿体ない気がするので質問はする
