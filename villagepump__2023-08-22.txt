@@ -1,0 +1,14 @@
+	[Scrapboxの引用記法に複数行をペーストすると2行目以降の頭に半角スペースがつく気がする]
+	[時報アプリ]
+	WindowsのブラウザでApple MusicやApple Podcastを再生するとiOSにURL飛ばす機能が欲しいかもしれない
+ 	iOSで再生中のキューの扱いをどうするか…
+ 	ページのQRコード生成してiPhoneで読み込めばいいか
+ 	[https://chrome.google.com/webstore/detail/the-qr-code-extension/oijdcdmnjjgnnhgljmhkjlablaejfeeb?hl=ja The QR Code Extension - Chrome ウェブストア]
+  全解決
+  今のChromeはデフォルトでQRコードを作る機能があります[inajob.icon]
+   ほんとうだ[はるひ.icon]
+   Vivaldiにはないのかなあー
+   [https://help.vivaldi.com/ja/desktop-ja/tools-ja/qr-code/ QR コードでリンクを共有 | Vivaldi Browser Help] あった
+   よく見ずにいらなそうなものを消してしまう癖が裏目に出た
+   [https://gyazo.com/7fa6de3002778926a4e3b29aa77511a1]
+   じゃーん
