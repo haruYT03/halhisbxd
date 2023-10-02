@@ -19,7 +19,7 @@
  		[Lake]
  			のほほんとしたスローライフ風ADVかと思いきや
  			会話自体は少ないながらCRPG的な選択肢の返答次第で普通に嫌味言われたりしてびっくりした
- 			こういう田舎だと配達で人脈ができていきそうで良い
+ 			こういう田舎だと[配達で人脈ができ]ていきそうで良い
  		[Death Stranding]
  		[Cloudpunk]
  			サイバーパンク
@@ -28,3 +28,9 @@
  			たまにヤバイものを運ばされる
  		[Totally Reliable Delivery Service]
  [https://stuffedwombat.itch.io/grab-grab-hands grab grab hands by Stuffed Wombat]
+	タイムボックス法的スケールの計画
+		見積もり時間がちょうどよいとよい
+		途中で余裕がありそうだと見るとサボる
+		時間内に終わりそうにないと諦める
+	番号をつける
+		[MoC]
